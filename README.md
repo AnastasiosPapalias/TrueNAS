@@ -2,7 +2,7 @@
 
 ![TrueNAS Scale Banner](https://github.com/AnastasiosPapalias/TrueNAS/blob/main/truenas.png)
 
-**Welcome to my TrueNAS Scale repository!**
+**TrueNAS Scale - 🐚 Shell Seeker**
 
 This repository contains my comprehensive documentation, guides, and configurations for TrueNAS Scale deployments in homelab environments. Here you'll find detailed instructions for setup, optimization techniques, network hardening procedures, and various tips and tricks I've discovered along my TrueNAS journey.
 
