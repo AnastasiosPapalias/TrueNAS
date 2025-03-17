@@ -1,6 +1,6 @@
 # TrueNAS Scale Homelab
 
-![TrueNAS Scale Banner](https://your-banner-image-url-here.jpg)
+![TrueNAS Scale Banner](https://github.com/AnastasiosPapalias/TrueNAS/blob/main/truenas.png)
 
 **Welcome to my TrueNAS Scale repository!**
 
