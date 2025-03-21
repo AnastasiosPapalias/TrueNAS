@@ -13,6 +13,9 @@ This repository contains my comprehensive documentation, guides, and configurati
 - [TrueCharts](https://truecharts.org/) - Enhanced app catalog for TrueNAS Scale
 - [Performance Testing Tools](tools/performance-testing.md) - Tools I use for performance validation
 
+## Articles
+- [How-To: Enable IPv6 for Plex with HTTPS on](https://github.com/AnastasiosPapalias/TrueNAS/blob/main/enableIPv6forPlex)
+
 ## Support
 
 If you find this repository helpful, consider supporting my work:
