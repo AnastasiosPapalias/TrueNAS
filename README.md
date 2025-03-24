@@ -14,7 +14,7 @@ This repository contains my comprehensive documentation, guides, and configurati
 - [Performance Testing Tools](tools/performance-testing.md) - Tools I use for performance validation
 
 ## Articles
-- [How-To: Enable IPv6 for Plex with HTTPS on](https://github.com/AnastasiosPapalias/TrueNAS/blob/main/enableIPv6forPlex)
+- [How-To: Enable IPv6 for Plex with HTTPS on](https://github.com/AnastasiosPapalias/TrueNAS/blob/main/enableIPv6forPlex.md)
 - [Create Local SSL Certificates](https://github.com/AnastasiosPapalias/TrueNAS/blob/main/localSSLcertificates.md)
 
 ## Support
