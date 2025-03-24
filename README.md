@@ -15,6 +15,7 @@ This repository contains my comprehensive documentation, guides, and configurati
 
 ## Articles
 - [How-To: Enable IPv6 for Plex with HTTPS on](https://github.com/AnastasiosPapalias/TrueNAS/blob/main/enableIPv6forPlex)
+- [Create Local SSL Certificates](https://github.com/AnastasiosPapalias/TrueNAS/blob/main/localSSLcertificates.md)
 
 ## Support
 
