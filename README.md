@@ -15,6 +15,7 @@ This repository contains my comprehensive documentation, guides, and configurati
 
 ## Articles
 - [Create Local SSL Certificates](https://github.com/AnastasiosPapalias/TrueNAS/blob/main/localSSLcertificates.md)
+- [How to Set Up qBittorrent with Wireguard VPN on TrueNAS Scale](https://github.com/AnastasiosPapalias/TrueNAS/blob/main/qbitVPN.md)
 
 ## Support
 
