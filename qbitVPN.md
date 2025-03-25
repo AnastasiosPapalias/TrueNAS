@@ -219,7 +219,7 @@ This guide provides a comprehensive walkthrough for setting up qBittorrent with 
 
 ## Conclusion
 
-You now have qBittorrent running securely behind a Wireguard VPN on TrueNAS Scale. Your torrent traffic is encrypted and routed through AirVPN, with a kill switch ensuring privacy if the VPN fails. For further help, join the [Servers at Home Discord](https://discord.gg/serversathome) or check the [Wiki](https://wiki.serversathome.xyz/).
+You now have qBittorrent running securely behind a Wireguard VPN on TrueNAS Scale. Your torrent traffic is encrypted and routed through AirVPN, with a kill switch ensuring privacy if the VPN fails. 
 
 ---
 
