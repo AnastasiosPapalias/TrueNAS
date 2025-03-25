@@ -27,7 +27,7 @@ This guide provides a comprehensive walkthrough for setting up qBittorrent with 
    - Pick a server (e.g., one with 20,000 Mbit bandwidth for high performance).
    - Click **Generate** and download the configuration file (e.g., `AirVPN_<location>.conf`).
 
-   **Example Wireguard Config (`wg0.conf`)**:
+   **Example Wireguard AirVPN_<location>.conf that we will use for wg0.conf**:
    ```ini
    [Interface]
    Address = 10.169.199.59/32
