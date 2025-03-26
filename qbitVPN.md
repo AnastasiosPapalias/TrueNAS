@@ -31,13 +31,13 @@ This guide provides a comprehensive walkthrough for setting up qBittorrent with 
    ```ini
    [Interface]
    Address = 10.169.199.59/32
-   PrivateKey = 2P1e/T0RM4mY/D+tNOABap2DVEh65ry4KzOYy8O4Flg=
+   PrivateKey = 2P1e/T0RM4mY/D+tNOABbp2DVEh65ry4KzOYy8O4Flk=
    MTU = 1320
    DNS = 10.128.0.1
 
    [Peer]
-   PublicKey = PyLCXAQT8KkM4T+dUsOQfn+Ub3pGxfGlxkIApuig+hk=
-   PresharedKey = QtdeTp/kbUYQCRl1DZZetZjuyE6kgZ1vH5UM2Bw7y5E=
+   PublicKey = PyLCXAQT8KkM4P-dUsOQfn+Ub3pGxfGlxkIApuig+hk=
+   PresharedKey = QtdeTp/kbUYQCR11DZZetZjuyE6kgZ1vH5UM2Bw7y5E=
    Endpoint = 37.46.117.92:1637
    AllowedIPs = 0.0.0.0/0
    PersistentKeepalive = 15
