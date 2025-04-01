@@ -14,8 +14,8 @@ This repository contains my comprehensive documentation, guides, and configurati
 - [Performance Testing Tools](tools/performance-testing.md) - Tools I use for performance validation
 
 ## Articles
-- [Create Local SSL Certificates](https://github.com/AnastasiosPapalias/TrueNAS/blob/main/localSSLcertificates.md)
-- [How to Set Up qBittorrent with Wireguard VPN on TrueNAS Scale](https://github.com/AnastasiosPapalias/TrueNAS/blob/main/qbitVPN.md)
+- [Create Local SSL Certificates](https://github.com/AnastasiosPapalias/TrueNAS/blob/main/truenas-files/localSSLcertificates.md)
+- [How to Set Up qBittorrent with Wireguard VPN on TrueNAS Scale](https://github.com/AnastasiosPapalias/TrueNAS/blob/main/truenas-files/qbitVPN.md)
 
 ## Support
 
